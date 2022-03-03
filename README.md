@@ -1,4 +1,4 @@
-# Upload files and folder to S3 from Ubuntu 20.04 using AWS CLI 2
+# Upload files and folders to S3 Buckets from Ubuntu 20.04 using AWS CLI 2
 
 Jan 10, 2021
 
@@ -8,7 +8,11 @@ Jan 10, 2021
 
 https://bmshamsnahid.medium.com/upload-files-and-folder-to-s3-from-ubuntu-20-04-using-aws-cli-2-2dd44f544809
 
+https://github.com/coding-to-music/coding-to-music.github.io/issues/376
+
 By [Shams Nahid](https://bmshamsnahid.medium.com/)
+
+https://github.com/coding-to-music/aws-s3-copy-instructions
 
 Applicable for Ubuntu 20.04 and its derivatives.
 
